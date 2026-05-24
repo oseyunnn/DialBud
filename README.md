@@ -1,2 +1,11 @@
-# DialBud
-This is just a prototype implementation, idea and concept is not mine. I just created and directed the creation of the app.
+
+  # DialBud
+
+  This is a code bundle for DialBud. The original project is available at https://www.figma.com/design/E3svDZ51uIUtfIgBGq9s1X/DialBud.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
