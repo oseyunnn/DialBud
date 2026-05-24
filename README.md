@@ -1,7 +1,7 @@
 
   # DialBud
 
-  This is a code bundle for DialBud. The original project is available at https://www.figma.com/design/E3svDZ51uIUtfIgBGq9s1X/DialBud.
+  This is a code bundle for DialBud. The original project is available at https://crust-media-98106910.figma.site.
 
   ## Running the code
 
